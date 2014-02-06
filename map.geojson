@@ -803,22 +803,6 @@
           39.65790978714922
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NAME": "test",
-        "ELEVATION": "test",
-        "DESC": "test",
-        "DATE": "test"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.78460693359374,
-          39.24288969082635
-        ]
-      }
     }
   ]
 }
